@@ -8,7 +8,7 @@ Simply click on provided each chapter google colab link to run a test codes.
 
 * Chapter 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-mansouri/DVP/blob/master/DVP_99_1_Chp01.ipynb)
 
-* Chapter 2-a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-mansouri/DVP/blob/master/DVP_99_1_Chp02a(fourier%20transform).ipynp)
+* Chapter 2-a [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-mansouri/DVP/blob/master/DVP_99_1_Chp02a(fourier%20transform).ipynb)
 
 * Chapter 2-b [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-mansouri/DVP/blob/master/DVP_99_1_Chp02b(fourier%20transform).ipynb)
 
